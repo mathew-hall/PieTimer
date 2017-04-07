@@ -8,7 +8,7 @@ import java.time.temporal.TemporalAdjusters;
 import java.util.ArrayList;
 
 public class PieTimer {
-	private static final int PIE_HOUR = 12;
+	private static final int PIE_HOUR = 14;
 	private static final int PIE_MINUTE = 0;
 	private static final DayOfWeek PIE_DAY = DayOfWeek.FRIDAY;
 
